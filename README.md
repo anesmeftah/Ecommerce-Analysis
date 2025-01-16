@@ -96,8 +96,9 @@ The following visualizations were created:
 
 ## Author
 Anas Meftah
-[Your LinkedIn Profile](https://www.linkedin.com/in/anas-meftah)  
-[Your GitHub Profile](https://github.com/anesmeftah)
+
+[LinkedIn Profile](https://www.linkedin.com/in/anas-meftah)  
+[ GitHub Profile](https://github.com/anesmeftah)
 
 ---
 Feel free to reach out if you have questions or suggestions for improvement!
